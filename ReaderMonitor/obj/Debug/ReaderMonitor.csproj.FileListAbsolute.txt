@@ -1,0 +1,17 @@
+E:\软件所\射频识别\ReaderMonitor\ReaderMonitor\bin\Debug\ReaderMonitor.exe.config
+E:\软件所\射频识别\ReaderMonitor\ReaderMonitor\bin\Debug\ReaderMonitor.exe
+E:\软件所\射频识别\ReaderMonitor\ReaderMonitor\bin\Debug\ReaderMonitor.pdb
+E:\软件所\射频识别\ReaderMonitor\ReaderMonitor\bin\Debug\Impinj.OctaneSdk.dll
+E:\软件所\射频识别\ReaderMonitor\ReaderMonitor\bin\Debug\LLRP.dll
+E:\软件所\射频识别\ReaderMonitor\ReaderMonitor\bin\Debug\LLRP.Impinj.dll
+E:\软件所\射频识别\ReaderMonitor\ReaderMonitor\bin\Debug\Renci.SshNet.dll
+E:\软件所\射频识别\ReaderMonitor\ReaderMonitor\bin\Debug\Impinj.OctaneSdk.xml
+E:\软件所\射频识别\ReaderMonitor\ReaderMonitor\bin\Debug\Renci.SshNet.xml
+E:\软件所\射频识别\ReaderMonitor\ReaderMonitor\obj\Debug\ReaderMonitor.csprojAssemblyReference.cache
+E:\软件所\射频识别\ReaderMonitor\ReaderMonitor\obj\Debug\ReaderMonitor.Form1.resources
+E:\软件所\射频识别\ReaderMonitor\ReaderMonitor\obj\Debug\ReaderMonitor.Properties.Resources.resources
+E:\软件所\射频识别\ReaderMonitor\ReaderMonitor\obj\Debug\ReaderMonitor.csproj.GenerateResource.cache
+E:\软件所\射频识别\ReaderMonitor\ReaderMonitor\obj\Debug\ReaderMonitor.csproj.CoreCompileInputs.cache
+E:\软件所\射频识别\ReaderMonitor\ReaderMonitor\obj\Debug\ReaderMonitor.csproj.CopyComplete
+E:\软件所\射频识别\ReaderMonitor\ReaderMonitor\obj\Debug\ReaderMonitor.exe
+E:\软件所\射频识别\ReaderMonitor\ReaderMonitor\obj\Debug\ReaderMonitor.pdb
